@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.1/zs-proxy_0.0.1_windows_amd64.zip",
+            "bin": [
+                "zs-proxy.exe"
+            ],
+            "hash": "328eaf2c8d5f60db2bdbb92c9fc2b9eb5646f04ec354a44dcf0d316cdf5787ae"
+        },
+        "arm64": {
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.1/zs-proxy_0.0.1_windows_arm64.zip",
+            "bin": [
+                "zs-proxy.exe"
+            ],
+            "hash": "d979a9f4c804c66312abae23a22eaad9027d6bad90ef437e1337e2a0d3a965c9"
+        }
+    },
+    "homepage": "https://github.com/txnlab/zs-proxy",
+    "license": "Apache-2.0",
+    "description": "Drop-in, private, OpenAI-compatible inference proxy"
+}
