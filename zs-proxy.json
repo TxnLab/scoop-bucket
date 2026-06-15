@@ -6,14 +6,14 @@
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "328eaf2c8d5f60db2bdbb92c9fc2b9eb5646f04ec354a44dcf0d316cdf5787ae"
+            "hash": "9684187d6bc5c36d85aafb3506fc8a375f16669015bb1eda1fa1ecea78021eea"
         },
         "arm64": {
             "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.1/zs-proxy_0.0.1_windows_arm64.zip",
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "d979a9f4c804c66312abae23a22eaad9027d6bad90ef437e1337e2a0d3a965c9"
+            "hash": "08641287cd7927dcb997ab6ea87fe5a769fa73a472556aa6d225c8e1e21d8a04"
         }
     },
     "homepage": "https://github.com/txnlab/zs-proxy",
