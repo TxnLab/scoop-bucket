@@ -1,22 +1,22 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.1/zs-proxy_0.0.1_windows_amd64.zip",
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.2/zs-proxy_0.0.2_windows_amd64.zip",
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "1aab59c6e6d40cf48a30f1bd0061e297ec0f01cb090d4d8b11ce4bb8458f1f17"
+            "hash": "97e3f552405d9945fb33ce30d6223589bcd06f374b25b35d4ee681c48a39f54a"
         },
         "arm64": {
-            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.1/zs-proxy_0.0.1_windows_arm64.zip",
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.0.2/zs-proxy_0.0.2_windows_arm64.zip",
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "d31917eaa06affcdb6b8faf36e4baa99312dbf5c0f52fbb11e8524ff2402e1ff"
+            "hash": "e2cc83fc28ad4bdcdcb61ac4e1d0cb285e5b88ff7b295ca27d6ac3f391d6e284"
         }
     },
     "homepage": "https://github.com/txnlab/zs-proxy",
-    "license": "Apache-2.0",
+    "license": "PolyForm-Noncommercial-1.0.0",
     "description": "Drop-in, private, OpenAI-compatible inference proxy"
 }
