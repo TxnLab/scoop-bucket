@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.1.0/zs-node_0.1.0_windows_amd64.zip",
+            "bin": [
+                "zs-node.exe"
+            ],
+            "hash": "fea55e32739f96199a9060c1d3e3d9611af61473eefa90fc1204d0ecdb6fa72d"
+        },
+        "arm64": {
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.1.0/zs-node_0.1.0_windows_arm64.zip",
+            "bin": [
+                "zs-node.exe"
+            ],
+            "hash": "d95123a405f74f482102fcaf3ca4ecaa92aad1f66ed79e7a41a07dddcf0463e4"
+        }
+    },
+    "homepage": "https://github.com/txnlab/zs-node",
+    "license": "PolyForm-Noncommercial-1.0.0",
+    "description": "Operator node for the ZeroSignal.ai private inference network"
+}
