@@ -1,19 +1,19 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txnlab/zs-node/releases/download/v0.8.1/zs-node_0.8.1_windows_amd64.zip",
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.8.2/zs-node_0.8.2_windows_amd64.zip",
             "bin": [
                 "zs-node.exe"
             ],
-            "hash": "f0a657c75bb03ac1c6de3aecfaa0c08792e454ea609d37b2d44dc99727544a27"
+            "hash": "064c2c0c70722e276dc4a830dbcd0b1eb7b86f1375c692029e1f7185286d6cb7"
         },
         "arm64": {
-            "url": "https://github.com/txnlab/zs-node/releases/download/v0.8.1/zs-node_0.8.1_windows_arm64.zip",
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.8.2/zs-node_0.8.2_windows_arm64.zip",
             "bin": [
                 "zs-node.exe"
             ],
-            "hash": "2a488ec6286fc5c96211cd4bc45e271511f82f1ec485d3cb19e4caed1a0bbaac"
+            "hash": "a6d5e615865cad85185cca0d003a9c108bd1afae835076a0232c8ca7e1462f29"
         }
     },
     "homepage": "https://github.com/txnlab/zs-node",
