@@ -1,19 +1,19 @@
 {
-    "version": "0.13.0",
+    "version": "0.13.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.13.0/zs-proxy_0.13.0_windows_amd64.zip",
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.13.1/zs-proxy_0.13.1_windows_amd64.zip",
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "1be6acabf777194967fab54c9a10b2277fc14668315c600d5aad8890b88139e3"
+            "hash": "0975c1f58a57fb1feef657c3b8bf3a25f57634c50a29a29b4f8755e21cab1ed5"
         },
         "arm64": {
-            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.13.0/zs-proxy_0.13.0_windows_arm64.zip",
+            "url": "https://github.com/txnlab/zs-proxy/releases/download/v0.13.1/zs-proxy_0.13.1_windows_arm64.zip",
             "bin": [
                 "zs-proxy.exe"
             ],
-            "hash": "aa3d265d2f285e901074011b944a76e53f64a43b3ec71a0621ac8bf81cf9ee0b"
+            "hash": "67158bc418003ac3d345c02cb7a07f97daf032a9bc83428a8caf11c5d38c555b"
         }
     },
     "homepage": "https://github.com/txnlab/zs-proxy",
