@@ -1,22 +1,22 @@
 {
-    "version": "0.14.3",
+    "version": "0.15.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txnlab/zs-node/releases/download/v0.14.3/zs-node_0.14.3_windows_amd64.zip",
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.15.0/zs-node_0.15.0_windows_amd64.zip",
             "bin": [
                 "zs-node.exe"
             ],
-            "hash": "fdeb7b09e36bd1d9b40051e09b511ee2c2201f3993bcd967330048497bad7dcd"
+            "hash": "a6a26c8bccfe732555bc2b22809af9a4e5099f013a2297722c24a48633cef1c5"
         },
         "arm64": {
-            "url": "https://github.com/txnlab/zs-node/releases/download/v0.14.3/zs-node_0.14.3_windows_arm64.zip",
+            "url": "https://github.com/txnlab/zs-node/releases/download/v0.15.0/zs-node_0.15.0_windows_arm64.zip",
             "bin": [
                 "zs-node.exe"
             ],
-            "hash": "4dfa6e7658bc236af624b6d1f96ebb11700d605f5306bba91e8021447fb9d147"
+            "hash": "f5316cf82ec59b002ab5af6853406f2208d4fcb6a8ec387d1b94420efbc3941b"
         }
     },
     "homepage": "https://github.com/txnlab/zs-node",
-    "license": "PolyForm-Noncommercial-1.0.0",
+    "license": "FSL-1.1-ALv2",
     "description": "Operator node for the ZeroSignal.ai private inference network"
 }
